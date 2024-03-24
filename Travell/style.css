@@ -1,0 +1,588 @@
+.main_wrapper {
+  width: 1440px;
+  height: 600px;
+  margin: 0 auto;
+  background-image: url("assets/Welcome\ \(1\).png");
+  border-image: url(/assets/iconprofile.png);
+  padding: 0;
+  margin: 0;
+  letter-spacing: 0.6px;
+  width: 1440px;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin: auto;
+}
+.BPL {
+  margin: 20px 20px 20px 20px;
+  font-family: "Forum", serif;
+}
+nav {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nobullet {
+  list-style-type: none;
+}
+ul li {
+  display: inline;
+  margin-right: 30px;
+  font-family: "Forum", serif;
+}
+.about-Ps9 {
+  text-align: center;
+  font-family: "Forum", serif;
+}
+.text {
+  text-align: center;
+}
+.wrapper {
+  width: 1440px;
+  display: flex;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin: auto;
+}
+.image {
+  width: 450px;
+  height: 560px;
+}
+.circles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+
+.circle {
+  width: 16px;
+  height: 16px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: black;
+  margin: 6px;
+}
+.circle1 {
+  width: 16px;
+  height: 16px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: rgb(187, 148, 95);
+  margin: 6px;
+}
+.img {
+  height: 28px;
+  width: 28px;
+}
+.upper {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.choosing {
+  width: 1440px;
+  display: flex;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin: auto;
+}
+.line {
+  width: 50px;
+  border: none;
+  height: 1px;
+  flex-shrink: 0;
+  background: #000;
+  margin: 2;
+}
+.text {
+  margin: 20px;
+}
+.text1 {
+  text-align: center;
+}
+.line2 {
+  width: 50px;
+  border: none;
+  height: 1px;
+  flex-shrink: 0;
+  background: #000;
+  margin: 2;
+}
+.Winter {
+  display: inline;
+}
+.Spring {
+  display: inline;
+}
+.Summer {
+  display: inline;
+}
+.Autumn {
+  display: inline;
+}
+.Favorites {
+  font-family: "Inter", serif;
+}
+.Staff_Picks {
+  color: rgb(0, 0, 0);
+  font-family: Forum;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: capitalize;
+}
+.name1 {
+  display: flex;
+  height: 80px;
+  width: 168px;
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+}
+.name2 {
+  width: 355px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: capitalize;
+}
+.book1 {
+  border: 1px solid black;
+  width: 550px;
+  height: 555px;
+  padding-left: 20px;
+}
+
+.line3 {
+  display: inline-block;
+  width: 60px;
+  border: none;
+  height: 1px;
+  flex-shrink: 0;
+  background: rgb(187, 148, 95);
+  margin: 0;
+}
+
+.buy {
+  width: 75px;
+  height: 30px;
+  background-color: white;
+}
+
+.book2 {
+  display: flex;
+  flex-wrap: wrap;
+  display: inline-block;
+  border: 1px solid black;
+  width: 550px;
+  height: 555px;
+  padding-left: 20px;
+}
+.name3 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+  height: 80px;
+  width: 173px;
+}
+.name4 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: capitalize;
+  width: 355px;
+  height: 280px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.name5 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+  height: 200px;
+  width: 173px;
+}
+.name6 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: capitalize;
+  width: 355px;
+  height: 280px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.book3 {
+  border: 1px solid black;
+  width: 550px;
+  height: 555px;
+  padding-left: 20px;
+}
+.name5 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+  height: 80px;
+  width: 355px;
+}
+.book4 {
+  display: inline-block;
+  border: 1px solid black;
+  width: 550px;
+  height: 555px;
+  padding-left: 20px;
+}
+.name7 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+  height: 80px;
+  width: 355px;
+}
+.name8 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: capitalize;
+  width: 355px;
+  height: 280px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#books {
+  width: 100%;
+  border: none;
+  border-collapse: separate;
+  border-spacing: 5px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 1440px;
+  height: 1439px;
+}
+.coffee-shop {
+  text-align: center;
+  margin: 0 auto;
+}
+.coffee-shop.text {
+  max-width: 1400px;
+  height: 120px;
+  text-align: center;
+}
+.assortment-of-coffee-shop {
+  width: 1400px;
+  display: flex;
+  justify-content: space-between;
+}
+.Coffee_and_Tea {
+  width: 438px;
+  font-family: Forum;
+}
+.dessert_and_cakes {
+  width: 438px;
+}
+.wrapper-coffe {
+  margin: 0 auto;
+  max-width: 1440px;
+  height: 841px;
+}
+.line_for_coffee {
+  display: inline-block;
+  width: 100px;
+  border: none;
+  height: 1px;
+  flex-shrink: 0;
+  background: rgb(187, 148, 95);
+  margin: 40px 20px;
+}
+.cold_brew_coffee {
+  align-items: center;
+  padding: 8px;
+  display: flex;
+  margin: 0px 60px;
+  justify-content: space-between;
+}
+.wrapper-coffee {
+  width: 438px;
+  height: 520px;
+}
+.our_contacts_text {
+  text-align: center;
+}
+.map {
+  width: 696px;
+  height: 414px;
+  text-align: right;
+}
+.info {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 40px;
+  width: 222px;
+  height: 40px;
+}
+.our_contacts_wrapper {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1440px;
+}
+.amanda {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 40px;
+}
+.staff {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 40px;
+}
+.library_cards {
+  text-align: center;
+  font-family: Forum;
+}
+.find_your_library_card {
+  box-sizing: border-box;
+  border: 3px solid rgb(187, 148, 95);
+  width: 600px;
+  height: 386px;
+
+  /*   display: flex;
+  flex-direction: column; */
+}
+.form-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.check_the_card {
+  margin: 0 auto;
+  display: block;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 1px;
+  color: rgb(12, 12, 14);
+  background-color: white;
+  padding: 10px 40px 10px 40px;
+}
+.wrapper_of_dlc {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  max-width: 1440px;
+}
+.cardd {
+  background: rgb(187, 148, 95);
+  width: 560px;
+  height: 272px;
+  margin: 20px;
+}
+#name {
+  width: 520px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 10px;
+  padding-left: 10px;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: 2%;
+}
+#password {
+  width: 520px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 10px;
+  padding-left: 10px;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: 2%;
+}
+.find_your_library_card_text {
+  text-align: left;
+  letter-spacing: 2%;
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  margin-left: 138px;
+}
+.library_cards_wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.brooklyn_public_library {
+  padding: 15px;
+  color: rgb(0, 0, 0);
+  font-family: Forum;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: 2%;
+  text-align: left;
+}
+.get_a_reader_card {
+  max-width: 456px;
+  margin-right: 20px;
+  text-align: end;
+  font-family: Forum;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 2%;
+}
+.textt {
+  max-height: 120px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 2%;
+}
+.sign_up {
+  margin: 10px;
+  font-family: Inter;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 12px;
+  letter-spacing: 1px;
+  text-align: center;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 0px;
+  box-sizing: border-box;
+  border: 1px solid rgb(12, 12, 14);
+  border-radius: 2px;
+  width: 75px;
+  height: 30px;
+  background-color: white;
+}
+.login {
+  flex: none;
+  box-sizing: border-box;
+  border: 1px solid rgb(12, 12, 14);
+  border-radius: 2px;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 0px;
+  font-family: Inter;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 12px;
+  letter-spacing: 1px;
+  text-align: center;
+  width: 75px;
+  height: 30px;
+  background-color: white;
+}
+.last_block {
+  background-color: #000;
+  max-width: 1440px;
+  height: 250px;
+  color: white;
+  margin: 0 auto;
+}
+.down_text {
+  width: 229px;
+  height: 40px;
+}
+.text12 {
+  text-align: end;
+  height: 40px;
+}
+.img1 {
+  height: 24px;
+  margin: 10px;
+}
+.last_block_wrapper {
+  color: white;
+  max-width: 1440px;
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}
+.qq {
+}
+.text21 {
+  justify-content: space-between;
+}
+.qqq {
+  color: white;
+  max-width: 1440px;
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+}
+.linee {
+  width: 1400px;
+  border: none;
+  height: 1px;
+  background: white;
+}
+.qwe {
+  display: inline;
+  justify-content: ;
+}
